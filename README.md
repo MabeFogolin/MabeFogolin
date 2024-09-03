@@ -36,10 +36,12 @@
 
 ###
 
-<p align="left">![Spotify recently played]](https://spotify-recently-played-readme.vercel.app/api?user=5xx734smcos4ddvmvuitkmhbl)</p>
+<img src="https://raw.githubusercontent.com/MabeFogolin/MabeFogolin/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/MabeFogolin/MabeFogolin/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5xx734smcos4ddvmvuitkmhbl&count=5&unique=true" alt="Spotify recently played"  />
+</div>
 
 ###
