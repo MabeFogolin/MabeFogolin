@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Queimando neurônios com desenvolvimento desde 2023.<br>📚  Atualmente, focada em dados e desenvolvimento de sistemas.<br>🎯 Pretendo me desenvolver e aprofundar conhecimentos em Governança de Dados e DataViz<br>🎲 Curiosidade: Tenho coleção de meias estampadas.</p>
+<p align="left">✨ Queimando neurônios desde 2002.<br>📚  Atualmente, focada em dados e desenvolvimento de sistemas.<br>🎯 Pretendo me desenvolver e aprofundar conhecimentos em Governança de Dados e DataViz<br>🎲 Curiosidade: Tenho coleção de meias estampadas.</p>
 
 ###
 
