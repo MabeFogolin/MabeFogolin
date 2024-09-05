@@ -1,47 +1,17 @@
-<h1 align="left">Olá👋</h1>
+<h1 align="left">Olá👋</h1> 
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas 💻<br>Eterna entusiasta do aprendizado contínuo 📑🤖</p> 
+<h2 align="left">Sobre mim</h2> 
+<p align="left">✨ Queimando neurônios desde 2002.<br>📚 Atualmente, focada em dados e desenvolvimento de sistemas.<br>🎯 Objetivo: Aprofundar conhecimentos em Governança de Dados e Data Visualization.<br>🎲 Curiosidade: Tenho uma coleção divertida de meias estampadas.</p> 
+<h2 align="left">Conhecimento de Programação</h2> 
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" /> <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> </div> 
 
-###
-
-<p align="left">Atualmente estudante de Análise e Desenvolvimento de Sistemas 💻<br>Eterna entusiasta do aprendizado 📑🤖</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Queimando neurônios desde 2002.<br>📚  Atualmente, focada em dados e desenvolvimento de sistemas.<br>🎯 Pretendo me desenvolver e aprofundar conhecimentos em Governança de Dados e DataViz<br>🎲 Curiosidade: Tenho coleção de meias estampadas.</p>
-
-###
-
-<h2 align="left">Conhecimento de programação</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/MabeFogolin/MabeFogolin/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5xx734smcos4ddvmvuitkmhbl&count=5&unique=true" alt="Spotify recently played"  />
-</div>
-
-###
