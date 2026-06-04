@@ -1,5 +1,5 @@
 <h1 align="left">Olá👋</h1> 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas 💻<br>Eterna entusiasta do aprendizado contínuo 📑🤖 <br> Analista júnior no Itaú-Unibanco 🧮 </p> 
+<p align="left">Formada em Análise e Desenvolvimento de Sistemas 💻<br>Eterna entusiasta do aprendizado contínuo 📑🤖 <br> Analista júnior no Itaú-Unibanco 🧮 </p> 
 <h2 align="left">Sobre mim</h2> 
 <p align="left">✨ Queimando neurônios desde 2002.<br>
   📚 Atualmente, focada em dados e desenvolvimento de sistemas.<br>
